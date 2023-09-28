@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+
+<script src="https://www.googleoptimize.com/optimize.js?id=OPT-MBCX9WV"></script>
+<head>
+  
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KVW5FFR8');</script>
+<!-- End Google Tag Manager -->
+
+  <title>AdJustaPrivacyPolicy</title>
+  <meta charset="UTF-8">
+</head>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ZLN7TG2YKE"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ZLN7TG2YKE');
+</script>
+  
+<body>
+  <h1>テストページ<h1>
+  <br>
+  <a href="https://naoto-70gur1.github.io/AdJustaPrivacyPolicy/conversion">購入</a>
+  <p>Test Inc.</p>
+  <script src="https://cdn.apollo-optimize.com/dev/test_8221e81d-f58e-4070-9528-24ee7a7e8d6e.min.js"></script>
+</body>
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KVW5FFR8"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+</html>
